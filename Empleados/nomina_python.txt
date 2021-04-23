@@ -1,0 +1,19 @@
+--------------------------------- 
+{'variable': 'Salario', 'resultado': 2000000.0}
+{'variable': 'Dias Liqidados', 'resultado': 23}
+{'variable': 'Salario Devengado', 'resultado': 1533333.3333333335}
+{'variable': 'Auxilio de Transporte', 'resultado': 0}
+{'variable': 'Total Devengado', 'resultado': 1533333.3333333335}
+--------------------------------- 
+{'variable': 'Salario', 'resultado': 1500000.0}
+{'variable': 'Dias Liqidados', 'resultado': 30}
+{'variable': 'Salario Devengado', 'resultado': 1500000.0}
+{'variable': 'Auxilio de Transporte', 'resultado': 106454.0}
+{'variable': 'Total Devengado', 'resultado': 1606454.0}
+--------------------------------- 
+{'variable': 'Salario', 'resultado': 3500000.0}
+{'variable': 'Dias Liqidados', 'resultado': 12}
+{'variable': 'Salario Devengado', 'resultado': 1400000.0}
+{'variable': 'Auxilio de Transporte', 'resultado': 0}
+{'variable': 'Total Devengado', 'resultado': 1400000.0}
+
